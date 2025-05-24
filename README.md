@@ -8,9 +8,9 @@ A simple yet powerful Streamlit web app that allows users to securely **encrypt*
 
 ## 🚀 Live Demo
 
-🌐 Try it here: 
+🌐 Try it here: [https://secure-data-app.streamlit.app](https://secureappproject5-gblbyrxlxrpp4ycasjqgvk.streamlit.app/)
 
-*([Replace with your actual Streamlit Share URL after deployment](https://secureappproject5-gblbyrxlxrpp4ycasjqgvk.streamlit.app/))*
+
 
 ---
 
